@@ -1,0 +1,18 @@
+[
+    {"id":1,"product_name":"RTX 3060","image":"http://dummyimage.com/234x100.png/ff4444/ffffff","brand":"MSI","price":333062.77},
+    {"id":2,"product_name":"RTX 3080 TI","image":"http://dummyimage.com/206x100.png/ff4444/ffffff","brand":"Gigabyte","price":883233.31},
+    {"id":3,"product_name":"RTX 3070","image":"http://dummyimage.com/224x100.png/cc0000/ffffff","brand":"Asus","price":442983.04},
+    {"id":4,"product_name":"RTX 3090 TI","image":"http://dummyimage.com/118x100.png/dddddd/000000","brand":"Powercolor","price":1231612.51},
+    {"id":5,"product_name":"RX 6700 XT","image":"http://dummyimage.com/192x100.png/ff4444/ffffff","brand":"XFX","price":1465245.19},
+    {"id":6,"product_name":"RX 7900 XT","image":"http://dummyimage.com/133x100.png/5fa2dd/ffffff","brand":"Saphire","price":1437301.61},
+    {"id":7,"product_name":"RX 6800","image":"http://dummyimage.com/206x100.png/ff4444/ffffff","brand":"Asrock","price":228654.46},
+    {"id":8,"product_name":"RX 7600","image":"http://dummyimage.com/223x100.png/ff4444/ffffff","brand":"Gigabyte","price":1394748.44},
+    {"id":9,"product_name":"Nitro 5","image":"http://dummyimage.com/157x100.png/cc0000/ffffff","brand":"Acer","price":846928.07},
+    {"id":10,"product_name":"Aspire Ryzen 7","image":"http://dummyimage.com/234x100.png/ff4444/ffffff","brand":"Acer","price":760164.61},
+    {"id":11,"product_name":"STRIX G15","image":"http://dummyimage.com/170x100.png/dddddd/000000","brand":"ROG","price":525053.53},
+    {"id":12,"product_name":"HP 255 G10","image":"http://dummyimage.com/118x100.png/5fa2dd/ffffff","brand":"HP","price":1248695.56},
+    {"id":13,"product_name":"AURICULAR BLACKSHARK V2 X WHITE","image":"http://dummyimage.com/166x100.png/dddddd/000000","brand":"RAZER","price":1052509.36},
+    {"id":14,"product_name":"TECLADO HUNTSMAN MINI ANALOG 60% BLACK","image":"http://dummyimage.com/206x100.png/ff4444/ffffff","brand":"RAZER","price":1499004.66},
+    {"id":15,"product_name":"TECLADO WIRELESS K270 BLACK","image":"http://dummyimage.com/224x100.png/cc0000/ffffff","brand":"LOGITECH","price":766185.17},
+    {"id":16,"product_name":"MOUSE G502 X GAMING BLACK","image":"../../src/assets/items/rtx-3060.jpg","brand":"LOGITTECH","price":959199.27}
+]
